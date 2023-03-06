@@ -8,6 +8,11 @@ class A
 		
 		echo $aa;
 	}
+
+	public function test11()
+	{
+		echo '什么鬼';
+	}
 }
 
 
